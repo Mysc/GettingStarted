@@ -1,4 +1,4 @@
-var book = require("../lib/grades").book;
+var book = require("../grades").book;
 
 exports["setUp"] = function(callback) {
     book.reset();

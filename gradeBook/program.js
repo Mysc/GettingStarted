@@ -1,4 +1,4 @@
-var book = require("./lib/grades").book;
+var book = require("./grades").book;
 var express = require("express");
 var app = express();
 
